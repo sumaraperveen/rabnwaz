@@ -5,6 +5,7 @@ export default function HomePage() {
   <><div className="min-h-screen bg-background text-foreground>"
     /><header className="bg-blue-600 text-white py-6 px-4">
         <div className="max-w-4xl mx-auto">
+          {/*next.svg*/}
           <h1 className="text-3xl font-bold text-center">Welcome to PAIB</h1>
           <nav className="mt-4">
             <ul className="flex justify-center gap-6">
